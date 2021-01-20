@@ -1,0 +1,26 @@
+Create a new PowerApp Whcich will hold details about Employee Leave
+
+Id,
+LeaveType(Sick,Casual,Planned),
+StartDate,
+EndDate,
+NumberOfDays(Auto calcualte),
+Reason,
+ApprovalStatus(Pending,Approved,Rejected), 
+ApprovedBy
+
+Screens
+Home -> Option for Apply Leave, ApproveLeave
+
+ApplyLevae-> 
+Id,
+LeaveType(Sick,Casual,Planned),
+StartDate,
+EndDate,
+NumberOfDays(Auto calcualte)(Disabled),
+Reason,
+ApprovalStatus(Pending)(Disabled), 
+ApprovedBy
+
+
+

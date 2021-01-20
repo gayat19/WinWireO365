@@ -1,0 +1,75 @@
+Pillars of SharePoint
+Site-> UI of the data
+Communities-> Feed Info to Site
+Content -> Data provided by the community
+Search -> Locate Data
+
+SharePoint Site
+Page
+Hierarchy
+Navigation
+Site Element/Building blocks
+Site Permissions
+Lists & Libraries
+Web Parts
+App Part
+
+
+Navigate to the Approval screen with the collection of Pending Leaves
+Display all the pending leaves
+When a leave is selected go to next screen and Allow to Approve
+
+
+
+SPFx
+Node Installation
+Download link
+https://nodejs.org/dist/latest-v10.x/
+
+
+Visual Studio Code is the editor
+
+Yeoman and Gulp Installation with NPM
+
+npm install -g yo gulp
+
+npm install -g @microsoft/generator-sharepoint
+
+yo @microsoft/sharepoint
+
+Name of the solution
+Type - > Sharepoint online 
+Location -> CurrentFolder
+Tenent Admin Access -> N
+API Access -> N
+Application Type-> WebPart
+WebPart Name ->
+Description -> 
+FRameWork-> No Javascript
+
+
+Open the aplication and work with it a little bit
+
+gulp serve - starts the server for you
+Download
+SharePoint Online Management Shell
+https://www.microsoft.com/en-us/download/details.aspx?id=35588
+
+Once it is downloaded and installed
+
+Open the tool as administrator
+in the powershell 
+Key in the following commands
+connect-SPOService -url <admin site url>
+
+then 
+Create a new site in sharepoint for hosting the app catalog
+Copy the site address 
+in the powershell
+
+Add-SPOSiteCollectionAppCatalog -site <the url of the site>
+This will create a app list in the site for you
+
+
+
+

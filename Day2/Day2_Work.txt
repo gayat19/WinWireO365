@@ -1,0 +1,20 @@
+SharePOint - Intro
+File Sharing->File/Folder->Security
+Email -> File - >Multiple Versions
+Instat Msg -> File ->MultipleCopy of file - >Multiple Versions
+Searching For Latest Contents
+
+SharePoint -> Not an application, NOt a Collection of Application
+
+It is a platform
+Collabrative environment
+Link
+https://www.office.com/
+Click on sharepoint
+
+Link
+https://<username>.sharepoint.com/_layouts/15/sharepoint.aspx
+
+
+
+

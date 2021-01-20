@@ -1,0 +1,18 @@
+Add a column "Department" to the LeaveRequestlist 
+Values can be IT,HR,Ops,Admin
+
+
+Create a new List 
+"Approvers"
+Columns - 
+Name - Person
+Department - IT,HR,Ops,Admin
+
+Create a List in sharepoint - TravelList-> 
+EmployeeName, 
+TravelType(Official,Personal),
+StartDate,
+EndDate,
+Amount -> If Official->NoOfDays*(3000) else NoOfDays*(1500)
+
+Create a powerApp for the same and add it to SecondPage

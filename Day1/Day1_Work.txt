@@ -1,0 +1,54 @@
+Link for PowerApps
+https://make.powerapps.com/
+
+Replacement for InfoPath
+No Code Solution
+Responsive View
+Huge support for Connectors
+Integration with PowerPlatform + Azure+ O365
+Security by Microsoft
+Enhance app with AI
+Cloud Based
+
+
+Types of Apps
+Canvas
+Model Driven  - Dynamics(Example)
+Portal  - Outsiders of the org
+
+Creating a simple form 
+TextBox
+Button
+Click of the button put HelloWorld
+
+Variable
+UpdateContext({varMessage:txtName.Text })
+Record
+UpdateContext({varMessage:User() })
+
+Navigate(<screen>,<NavigationEffect>,{variable:value})
+
+If(Condition,valueIfTrue,valueIfFalse)
+GlobalVariables
+App -> OnStart->Set(variable,value)
+
+Collection
+Collect(<CollectionName>,{property:value})
+
+Excel to POwerApps
+
+SharePOint - Intro
+File Sharing->File/Folder->Security
+Email -> File - >Multiple Versions
+Instat Msg -> File ->MultipleCopy of file - >Multiple Versions
+Searching For Latest Contents
+
+SharePoint -> Not an application, NOt a Collection of Application
+
+It is a platform
+Collabrative environment
+Link
+https://www.office.com/
+Click on sharepoint
+
+

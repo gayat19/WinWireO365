@@ -1,0 +1,16 @@
+Create a new Site
+Upload This datafile as task file
+Add your logo to the site
+Create 3 lists 
+Employee - ID,FullName, DateOfBirth,Manager,Department(IT,Admin,HR), Status(Active,Inactive) - Create this in SharePoint itself
+
+Managers-> ID,FullName,Department(IT,Admin,HR) - Create this from Excel)
+
+Tasks-> Id,TaskName, Description, AssignedTo(Only Active employees), StartDate, ExpectedEndDate,ActualEndDate, BackLog(As number of days), Reason - Create this from Access
+
+Have menu for the Task list in the site.
+
+Create A page which will have option to create a task(PowerApp)
+And will Show this file for refference. 
+Also in the same page allow user to schedule meeting for questions in Task.
+Show all the events  
