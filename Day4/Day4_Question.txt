@@ -1,0 +1,5 @@
+Create a flow which will mail you if a row is deleted.
+
+Explore Teams
+   Every one will give me a new option u learnd in teams
+

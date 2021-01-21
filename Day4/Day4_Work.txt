@@ -1,0 +1,28 @@
+Validation
+  WebPArt
+  PowerApps
+
+cdn path 
+Ship the SPFx
+ "includeClientSideAssets": false ->in the package-solution.json
+
+and in the write-manifest
+"cdnBasePath":<doc lib path>
+
+gulp build --ship
+gulp bundle --ship
+
+Graph -> Gateway for your Microsoft CLoud
+   One Resource that proxies most microsoft services
+   oAuth - Simplifies token management
+   discovery ease
+  direct REST API
+
+SharePOint Hub
+  Association
+  Creation of Hub
+
+Power Automate
+ Intro  
+
+ 

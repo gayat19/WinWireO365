@@ -11,6 +11,10 @@ Tasks-> Id,TaskName, Description, AssignedTo(Only Active employees), StartDate, 
 Have menu for the Task list in the site.
 
 Create A page which will have option to create a task(PowerApp)
-And will Show this file for refference. 
-Also in the same page allow user to schedule meeting for questions in Task.
+And will Show this file for refference.(Hint-File Viwewer) 
+Also in the same page allow user to schedule meeting for questions in Task.(Events)
 Show all the events  
+
+In the powerApp for adding the task 
+The BackLog sould be a calculated field
+AssignedTo should list the active Employees
