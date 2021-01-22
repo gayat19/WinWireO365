@@ -1,0 +1,33 @@
+Check if a new item is added to the list in 
+https://gayathri1910.sharepoint.com/sites/FlowUnderstand/
+
+Condition check if the details contains a word "Check"
+
+If yes then mail the  Concern person incharge with check for approval
+
+If the person approves send the receiving person a mail stating that the request has been approved.
+
+If rejected then send the person the request has been rejected
+
+---------------------------------------------------------
+
+If a new Video is uploaded into youTube Channel and it contains Learning in Title
+
+Send an approval mail to <someperson> with status Add/Reject/Pending
+
+Make and entry in Sharepoint List based on the mail response
+
+
+
+
+PowerApp and flow and Sharepoint back to powerapp
+
+Excel -> Mail
+
+
+
+FileName
+
+concat('https://gayathri1910.sharepoint.com/sites/FlowUnderstand',outputs('Create_file')?['body/Path'])
+
+LinkToPic
